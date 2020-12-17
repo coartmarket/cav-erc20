@@ -1,2 +1,2 @@
 # cav-erc20
-CAV ERC20 Token contract
+CoArt VR Token (CAV) ERC20 Token contract
